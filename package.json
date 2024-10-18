@@ -24,9 +24,6 @@
     "app/browse"
   ],
   "cds": {
-    "features": {
-      "fiori_preview": true
-    },
     "requires": {
       "[production]": {
         "db": "hana",
