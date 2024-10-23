@@ -23,7 +23,8 @@
     ],
     "redirect-uris": [
         "https://*.applicationstudio.cloud.sap/**",
-        "https://*.hana.ondemand.com/**"
+        "https://*.hana.ondemand.com/**",
+        "https://test.test.test"
     ]
 }
 }
